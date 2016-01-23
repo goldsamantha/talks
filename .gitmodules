@@ -1,0 +1,3 @@
+[submodule "constellation-clothes"]
+	path = constellation-clothes
+	url = https://github.com/sgoldst3/constellation-clothes
